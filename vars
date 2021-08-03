@@ -1,0 +1,4 @@
+/home/karl/.deno/bin:/home/karl/.yarn/bin:/home/karl/.config/yarn/global/node_modules/.bin:/home/karl/.rbenv/shims:/home/karl/.rbenv/bin:/home/karl/.nvm/versions/node/v12.18.3/bin:/home/karl/bin:/usr/local/bin:/usr/bin:/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin:/home/karl/pkg/flutter/bin:/usr/local/go/bin:/home/karl/.meteor:/home/karl/.local/bin
+        "GEM_HOME": "/Users/et/.gem/ruby/2.5.3",
+        "GEM_PATH": "/Users/et/.gem/ruby/2.5.3:/Users/et/.rubies/ruby-2.5.3/lib/ruby/gems/2.5.0",
+        "RUBY_VERSION": "2.5.3"
